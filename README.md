@@ -8,7 +8,7 @@ The removed result of using LEGO dataset of [NeRF Synthetic dataset](https://dri
 | Original Baseline   | 346636   | 0.982594   |36.0502|0.015989|
 | With Pruning  |233482| 0.982491   |36.00119|0.016171|
 
-2. Showing the deleted 3D Gaussians on the reconstructed scene by labelled 3D Gaussian. The result is displayed by removed gaussian in human head Avatar. ![Result](.\assets\pruning_result.png)
+2. Showing the deleted 3D Gaussians on the reconstructed scene by labelled 3D Gaussian. The result is displayed by removed gaussian in human head Avatar. ![Result](assets/pruning_result.png)
 
 
 ## Environment
