@@ -3,6 +3,8 @@ In this project, I developped two new function to original 3DGS model.
 1. Gaussian Redundancy 
 Remove redundant gaussian by the first method in [Reducing the Memory Footprint of 3D Gaussian Splatting](https://repo-sam.inria.fr/fungraph/reduced_3dgs/), but without using threshold. 
 The removed result of using LEGO dataset of [NeRF Synthetic dataset](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1) is shown as follow table.
+
+
 | Method            | Number of Gaussians | SSIM     | PSNR   | LPIPS    |
 |-------------------|---------------------|----------|--------|----------|
 | Original Baseline | 346,636              | 0.982594 | 36.0502| 0.015989 |
